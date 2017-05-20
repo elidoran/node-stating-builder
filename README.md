@@ -4,9 +4,12 @@
 [![npm version](https://badge.fury.io/js/%40stating%2Fbuilder.svg)](http://badge.fury.io/js/%40stating%2Fbuilder)
 [![Coverage Status](https://coveralls.io/repos/github/elidoran/node-stating-builder/badge.svg?branch=master)](https://coveralls.io/github/elidoran/node-stating-builder?branch=master)
 
-Help build nodes for [stating](https://www.npmjs.com/package/stating)
+Help build nodes for [stating](https://www.npmjs.com/package/stating).
 
 Each stating node is a function. This package helps build common node functions.
+
+See [stating](https://www.npmjs.com/package/stating) package to learn about how these nodes are added to a `stating` instance.
+
 
 ## Install
 
